@@ -1,0 +1,464 @@
+
+#bigdiv {
+    display: flex;
+    font-family: sans-serif;
+}
+
+#grotediv1{
+    width: 105px;
+
+    padding-right: 1px;
+
+}
+
+#grotediv2 {
+    width: 105px;
+    padding-right:15px;
+
+}
+
+
+
+#grotediv4{
+    padding-right:15px;
+    padding-left: 25px;
+
+}
+
+
+#grotediv5{
+    padding-right:15px;
+
+}
+
+
+#grotediv7{
+    padding-left:15px;
+
+}
+
+
+#onederkant{
+
+    display: flex;
+
+}
+
+
+
+div#tweetalig {
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+
+div#jaarzes{
+    background-color:purple;
+    width:100px;
+    height: 70px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+div#jaarvijf{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    margin-top:1px;
+    color: white;
+
+}
+
+div#jaarvier{
+    background-color: purple;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+
+div#jaardrie{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartwee{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+}
+
+div#klastweetalig{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-right:10px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+div#atheneum{
+    background-color: white;
+    width: 100px;
+    height: 39px;
+    text-align: center;
+}
+
+div#jaarzess{
+    background-color:purple;
+    width:100px;
+    height: 90px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+div#jaarvijff{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    margin-top:1px;
+    color: white;
+
+}
+
+div#jaarvierr{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaardriee{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartweee{
+    background-color: purple;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+}
+
+div#klastweetaligg {
+    background-color: purple;
+    width: 155px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+div#havo{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+
+div#jaarvijfff{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    margin-top:1px;
+    color: white;
+    padding-top: 30px;
+}
+
+div#jaarvierrr{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaardrieee{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartweeee{
+    background-color: purple;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+}
+
+div#klastweetaliggg{
+    background-color: grey;
+    width: 105px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+div#havozes{
+    background-color: white;
+    width: 100px;
+    height:160px;
+    text-align: center;
+}
+
+div#jaarvierrrr{
+    background-color: grey;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+div#jaardrieeee{
+    background-color: grey;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartweeeee{
+    background-color: grey;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+div#havozess{
+    background-color: white;
+    width: 100px;
+    height:160px;
+    text-align: center;
+}
+
+div#jaarvierrrrr{
+    background-color: darkblue;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+div#jaardrieeeee{
+    background-color: darkblue;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartweeeeee{
+    background-color: darkblue;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+}
+
+
+div#klastweetaligggg{
+    background-color: darkblue;
+    width: 170px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div#vmbokader{
+    background-color: white;
+    width: 100px;
+    height:160px;
+    text-align: center;
+}
+
+div#jaarvierrrrrr{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+div#jaardrieeeeee{
+    background-color:lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartweeeeeee{
+    background-color:lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+}
+
+
+div#klastweetaliggggg{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+div#vmbobasis{
+    background-color: white;
+    width: 100px;
+    height:160px;
+    text-align: center;
+}
+
+div#jaarvierrrrrrr{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+div#jaardrieeeeeee{
+    background-color:lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+}
+
+div#jaartweeeeeeee{
+    background-color:lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-bottom:20px;
+}
+
+
+div#klastweetaligggggg{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
